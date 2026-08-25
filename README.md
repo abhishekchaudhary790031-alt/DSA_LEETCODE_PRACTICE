@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/abhishekchaudhary790031-alt/DSA_LEETCODE_PRACTICE/tree/master/0015-3sum) |
+| [0125-valid-palindrome](https://github.com/abhishekchaudhary790031-alt/DSA_LEETCODE_PRACTICE/tree/master/0125-valid-palindrome) |
 ## Sorting
 |  |
 | ------- |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/abhishekchaudhary790031-alt/DSA_LEETCODE_PRACTICE/tree/master/0058-length-of-last-word) |
+| [0125-valid-palindrome](https://github.com/abhishekchaudhary790031-alt/DSA_LEETCODE_PRACTICE/tree/master/0125-valid-palindrome) |
 ## Math
 |  |
 | ------- |
