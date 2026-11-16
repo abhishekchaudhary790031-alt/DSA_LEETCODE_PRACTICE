@@ -27,10 +27,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0058-length-of-last-word](https://github.com/abhishekchaudhary790031-alt/DSA_LEETCODE_PRACTICE/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/abhishekchaudhary790031-alt/DSA_LEETCODE_PRACTICE/tree/master/0125-valid-palindrome) |
+| [0227-basic-calculator-ii](https://github.com/abhishekchaudhary790031-alt/DSA_LEETCODE_PRACTICE/tree/master/0227-basic-calculator-ii) |
 ## Math
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/abhishekchaudhary790031-alt/DSA_LEETCODE_PRACTICE/tree/master/0066-plus-one) |
+| [0227-basic-calculator-ii](https://github.com/abhishekchaudhary790031-alt/DSA_LEETCODE_PRACTICE/tree/master/0227-basic-calculator-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -46,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0227-basic-calculator-ii](https://github.com/abhishekchaudhary790031-alt/DSA_LEETCODE_PRACTICE/tree/master/0227-basic-calculator-ii) |
 | [0682-baseball-game](https://github.com/abhishekchaudhary790031-alt/DSA_LEETCODE_PRACTICE/tree/master/0682-baseball-game) |
 ## Simulation
 |  |
